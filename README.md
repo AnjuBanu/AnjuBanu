@@ -1,7 +1,7 @@
 
 <p align='center'>
 <a href="https://www.instagram.com/anjum_dreamer/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/anjum-ismail-ds/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/anjum-ismail-ds/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnjuBanu.AnjuBanu)
