@@ -8,7 +8,7 @@
 
 ### Hello, folks! 👋
 
-My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Data Science Enthusiast. I am currently study ML, DL, NLP, CV, Open AI. 
+My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Data Science Enthusiast. I am currently deep diving my knowledge in ML, DL, NLP, CV, Open AI. 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
