@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**AnjuBanu/AnjuBanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://www.instagram.com/anjum_dreamer/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/anjum-ismail-ds/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AnjuBanu.AnjuBanu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello, folks! 👋
+
+My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Data Science Enthusiast. I am currently study ML, DL, NLP, CV, Open AI. 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif" />
+
+🌱 I’m currently learning NLP and Image processing
+
+👯 I’m happy to face new challenges
+
+📫 How to reach me: anjum.banu@gmail.com
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
