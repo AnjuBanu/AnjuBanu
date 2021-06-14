@@ -10,7 +10,7 @@
 
 My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Data Science Enthusiast. I am currently deep diving my knowledge in ML, DL, NLP, CV, Open AI. 
 
-<img height="400" align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
+<img height="350" align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
 - 🔭 I’m currently working on **some of my side learning projects :P**
 - 🌱 I’m currently learning NLP and Image processing
