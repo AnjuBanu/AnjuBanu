@@ -23,6 +23,7 @@ My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Da
 **Languages and Tools:**  
 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
