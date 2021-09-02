@@ -12,10 +12,10 @@ My name is Anjum Ismail, I am a student at Queen's University Belfast. I am a Da
 
 <img height="350" align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
-- 🔭 I’m currently working on **some of my side learning projects :P**
+- 🔭 I’m currently working on some of my side learning projects
 - 🌱 I’m currently learning NLP and computer Vision
 - 💬 Ask me about **ML, DL, Statistics**
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 👯 I’m looking to collaborate on anything free and open source
 - 📫 How to reach me **anjum.banu@gmail.com**
 - ⚡ Fun fact **I love Data Visualization and understanding algorithms**
 
